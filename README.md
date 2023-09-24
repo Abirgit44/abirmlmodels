@@ -17,9 +17,9 @@ Machine learning is a rapidly evolving field, and it's essential to have a solid
 
 ## Models and Algorithms
 
-Here's a list of some of the models and algorithms you can find in this repository:
+**Here's a list of some of the models and algorithms you can find in this repository by clicking over each one**:
 
-- Linear Regression
+- [Linear Regression](https://github.com/Abirgit44/abirmlmodels/blob/main/Linear%20Regression.ipynb)
 - Logistic Regression
 - Decision Trees
 - Random Forest
