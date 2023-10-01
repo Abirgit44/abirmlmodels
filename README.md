@@ -19,8 +19,8 @@ Machine learning is a rapidly evolving field, and it's essential to have a solid
 
 **Here's a list of some of the models and algorithms you can find in this repository by clicking over each one**:
 
-- [Simple Linear Regression](https://github.com/Abirgit44/abirmlmodels/blob/main/Linear%20Regression.ipynb)
-- [Multiple Linear Regression](https://github.com/Abirgit44/abirmlmodels/blob/main/Multiple%20Linear%20Regression.ipynb)
+- [Simple Linear Regression](https://github.com/Abirgit44/abirmlmodels/blob/main/Machine%20Learning%20Notebooks/Simple%20Linear%20Regression.ipynb)
+- [Multiple Linear Regression](https://github.com/Abirgit44/abirmlmodels/blob/main/Machine%20Learning%20Notebooks/Multiple%20Linear%20Regression.ipynb)
 - Logistic Regression
 - Decision Trees
 - Random Forest
