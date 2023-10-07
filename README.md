@@ -21,7 +21,7 @@ Machine learning is a rapidly evolving field, and it's essential to have a solid
 
 - [Simple Linear Regression](https://github.com/Abirgit44/abirmlmodels/blob/main/Machine%20Learning%20Notebooks/Simple%20Linear%20Regression.ipynb)
 - [Multiple Linear Regression](https://github.com/Abirgit44/abirmlmodels/blob/main/Machine%20Learning%20Notebooks/Multiple%20Linear%20Regression.ipynb)
-- Logistic Regression
+- [Logistic Regression](https://github.com/Abirgit44/abirmlmodels/blob/main/Machine%20Learning%20Notebooks/Logistic_Regression.ipynb)
 - Decision Trees
 - Random Forest
 - Support Vector Machines
